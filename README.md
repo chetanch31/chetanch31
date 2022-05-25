@@ -1,8 +1,8 @@
 # 💫About Me :
-👨‍🎓 I'm currently a second year, B.Tech CSE student at IIIT-Delhi. 
-💭I'm currently learning ReactJS and Flutter.
-💻Have experience with Java, C++ and Python.
-🙌Worked with several frameworks including Django and Flask.
+- 👨‍🎓 I'm currently a second year, B.Tech CSE student at IIIT-Delhi. 
+- 💭I'm currently learning ReactJS and Flutter.
+- 💻Have experience with Java, C++ and Python.
+- 🙌Worked with several frameworks including Django and Flask.
 
 
 
@@ -15,13 +15,6 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=chetanch31&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 <!--
 **chetanch31/chetanch31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
