@@ -1,8 +1,8 @@
 # 💫About Me :
 - 👨‍🎓 I'm currently a second year, B.Tech CSE student at IIIT-Delhi. 
-- 💭I'm currently learning ReactJS and Flutter.
-- 💻Have experience with Java, C++ and Python.
-- 🙌Worked with several frameworks including Django and Flask.
+- 💭 I'm currently learning ReactJS and Flutter.
+- 💻 Have experience with Java, C++ and Python.
+- 🙌 Worked with several frameworks including Django and Flask.
 
 
 
